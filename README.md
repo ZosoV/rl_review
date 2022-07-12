@@ -4,6 +4,8 @@ I create this repository to program from scratch some well-known reinforcement l
 
 (Work in Progress)
 
+- [ ] [Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Improvement](https://arxiv.org/pdf/1901.10964.pdf)
+
 | Algorithm        | Paper/Book | Code |
 |------------------|------------|------|
 | Value Iteration  | [Reinforcement Learning: An Introduction. Richard S., and Andrew B. (2018)](http://www.incompleteideas.net/book/the-book-2nd.html)           |  TBD    |
